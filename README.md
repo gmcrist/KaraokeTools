@@ -37,7 +37,6 @@ CD+G discs have inconsistent or nonexistent ID3 tags.
 ### Requirements
 * Python 2.7+
 * Mutagen
-* Reportlab
 
 ### Usage
 ```
